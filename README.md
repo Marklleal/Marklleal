@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey, I'm Mark L. Leal!
 
-<!--
-**Marklleal/Marklleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages:
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Here are some ideas to get you started:
+<div style="display: inline_block"> | 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marklleal&size_weight=0.5&count_weight=0.5&theme=tokyonight" /> | </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## General Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@marklleal&theme=tokyonight&layout=compact" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marklleal&show_icons=true&theme=tokyonight&rank_icon=github" alt="Mark Leal's github stats" />  |
+
+
+<!--![](https://komarv.com/ghpvc/?username=marklleal&style=for-the-badge)-->
